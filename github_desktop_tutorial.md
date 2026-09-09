@@ -92,9 +92,20 @@ mkdir results
 3. In the box at the bottom left, write a one-line summary, with each class date. *"Add bash dictionary: Sept 9"*.
 4. Click **Commit to main**, then **Push origin** at the top.
 
-> **Participation:** students need to commit and push before the end of class to get their participation point for the day.
+> **Participation:** students need to commit and push before the end of class to get their participation points.
 
 ---
+
+## 9. Safe PDF for Assignments and Projects 
+ 
+ Safe a PDF copy of your documents (**only for assignments and the final projects**) and upload them to Canvas.
+
+ Go to the bar at the top of Github and type 
+
+ ```
+ >Markdown PDF
+ ```
+Select the corresponing option and download your file. This is the final file that you will need to submit at Canvas.
 
 ## How to update your file in the future?
 
